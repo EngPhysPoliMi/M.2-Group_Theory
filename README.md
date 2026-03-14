@@ -1,6 +1,6 @@
-# x.y - Template
+# M.2 - Group Theory
 
-Repository for "Template".
+Repository for "Group Theory".
 
 
 ## Use instructions
